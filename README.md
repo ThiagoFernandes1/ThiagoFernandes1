@@ -6,6 +6,40 @@
 
 <br/>
 
+```
+                    · · · · · · · · · ·
+              · · · · · · · · · · · · · · · ·
+          · · · · · · · · · · · · · · · · · · · ·
+        · · · · · · · · · · · · · · · · · · · · · ·
+      · · · · · · · · · · · · · · · · · · · · · · · ·
+     · · · · · · · · · · · · · · · · · · · · · · · · ·
+    · · · · · · · · · · · · · · · · · · · · · · · · · ·
+   · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+   · · · · · ·▒▒▒▒▒▒· · · · · · · · ·▒▒▒▒▒▒· · · · · ·
+  · · · · ·▒▒▒▒▒▒▒▒▒▒▒· · · · · ·▒▒▒▒▒▒▒▒▒▒▒· · · · · ·
+  · · · ·▒▒▒▒▒▒██▒▒▒▒▒▒· · · · ·▒▒▒▒▒▒██▒▒▒▒▒▒· · · · ·
+  · · · ·▒▒▒▒▒▒▒▒▒▒▒▒▒▒· · · · ·▒▒▒▒▒▒▒▒▒▒▒▒▒▒· · · · ·
+  · · · · ·▒▒▒▒▒▒▒▒▒▒· · · · · · ·▒▒▒▒▒▒▒▒▒▒· · · · · ·
+  · · · · · · ·▒▒▒▒· · · · · · · · · ·▒▒▒▒· · · · · · ·
+  · · · · · · · · · · · ·▒▒▒▒▒· · · · · · · · · · · · ·
+   · · · · · · · · · · ·▒▒▒▒▒▒▒· · · · · · · · · · · ·
+   · · · · · · · · · · ·▒▒▒▒▒▒▒· · · · · · · · · · · ·
+    · · · · · · · · · · ·▒▒▒▒▒· · · · · · · · · · · ·
+    · · · · · · · · · · · ·▒▒· · · · · · · · · · · · ·
+     · · · · · · · · · · · · · · · · · · · · · · · ·
+      · · · ·▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒· · · · ·
+       · · · ·▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒· · · · ·
+        · · · · ·▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒· · · · · ·
+         · · · · · · · · · · · · · · · · · · · ·
+          · · · · · · · · · · · · · · · · · · ·
+            · · · · · · · · · · · · · · · · ·
+              · · · · · · · · · · · · · · ·
+                 · · · · · · · · · · · ·
+                     · · · · · · · ·
+```
+
+<br/>
+
 <a href="mailto:thg.almeida9@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
@@ -71,6 +105,7 @@ const thiago = {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[🤖 Agente IA](https://github.com/ThiagoFernandes1/Agente-IA)** | Agente multi-agente com RAG e guardrail determinístico contra alucinação de fontes. CI em 6 combinações de SO/Python, 100 testes sem rede, 82% de cobertura | `Python` `CrewAI` `ChromaDB` |
 | **[🛰️ NEXUS](https://github.com/ThiagoFernandes1/NEXUS)** | Painel de dados ao vivo que agrega 5 APIs públicas, com streaming SSE, cache e testes automatizados | `Python` `Flask` `SQLite` |
 | **[🎵 Spotify Interface](https://github.com/ThiagoFernandes1/Spotify-Interface)** | Recriação da interface do Spotify em desktop | `Node` `Electron` |
 | **[🏆 Álbum Copa do Mundo](https://github.com/ThiagoFernandes1/Album-CopaDoMundo)** | Álbum de figurinhas interativo | `TypeScript` |
