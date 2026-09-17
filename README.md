@@ -9,9 +9,8 @@
 <a href="mailto:thg.almeida9@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
-<!-- Substitua SEU-USUARIO pelo seu perfil do LinkedIn -->
-<a href="https://www.linkedin.com/in/SEU-USUARIO/">
-  <img src="https://www.linkedin.com/in/thiago-fernandes-almeida-03228228a/" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/thiago-fernandes-almeida-03228228a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ThiagoFernandes1?tab=repositories">
   <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
@@ -29,8 +28,8 @@
 const thiago = {
   papel:      "Desenvolvedor Full-Stack",
   foco:       ["Front-End", "Back-End", "APIs", "Automação"],
-  stack:      ["JavaScript", "TypeScript", "Python", "PHP", "Node.js"],
-  bancos:     ["SQL", "Oracle APEX"],
+  stack:      ["Java", "JavaScript", "TypeScript", "Python", "PHP", "Node.js"],
+  bancos:     ["SQL Server", "SQL", "Oracle APEX"],
   aprendendo: "arquitetura de software e boas práticas",
   lema:       "código que funciona é o começo; código que se entende é o objetivo"
 };
@@ -42,9 +41,12 @@ const thiago = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,nodejs,react&theme=dark" alt="Linguagens e frameworks" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,nodejs,react&theme=dark" alt="Linguagens e frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,mysql,git,github,vscode,electron,linux,figma&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=maven,flask,mysql,git,github,vscode,electron,linux,figma&theme=dark" alt="Ferramentas" />
+<br/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="JDBC" />
 
 </div>
 
@@ -71,6 +73,7 @@ const thiago = {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[☕ Sistema de Estoque](https://github.com/ThiagoFernandes1/Sistema-Estoque-Java)** | Sistema de controle de estoque em Java com SQL Server: CRUD completo via JDBC, transações, relatórios e script de criação do banco | `Java` `SQL Server` `JDBC` `Maven` |
 | **[🤖 Agente IA](https://github.com/ThiagoFernandes1/Agente-IA)** | Agente multi-agente com RAG e guardrail determinístico contra alucinação de fontes. CI em 6 combinações de SO/Python, 100 testes sem rede, 82% de cobertura | `Python` `CrewAI` `ChromaDB` |
 | **[🛰️ NEXUS](https://github.com/ThiagoFernandes1/NEXUS)** | Painel de dados ao vivo que agrega 5 APIs públicas, com streaming SSE, cache e testes automatizados | `Python` `Flask` `SQLite` |
 | **[🎵 Spotify Interface](https://github.com/ThiagoFernandes1/Spotify-Interface)** | Recriação da interface do Spotify em desktop | `Node` `Electron` |
