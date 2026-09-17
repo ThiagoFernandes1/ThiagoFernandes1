@@ -11,7 +11,7 @@
 </a>
 <!-- Substitua SEU-USUARIO pelo seu perfil do LinkedIn -->
 <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://www.linkedin.com/in/thiago-fernandes-almeida-03228228a/" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ThiagoFernandes1?tab=repositories">
   <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
