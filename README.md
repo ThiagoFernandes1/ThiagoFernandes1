@@ -28,8 +28,8 @@
 const thiago = {
   papel:      "Desenvolvedor Full-Stack",
   foco:       ["Front-End", "Back-End", "APIs", "Automação"],
-  stack:      ["Java", "JavaScript", "TypeScript", "Python", "PHP", "Node.js"],
-  bancos:     ["SQL Server", "SQL", "Oracle APEX"],
+  stack:      ["Java", "Spring Boot", "JavaScript", "TypeScript", "Python", "PHP", "Node.js"],
+  bancos:     ["PostgreSQL", "SQL Server", "Oracle APEX"],
   aprendendo: "arquitetura de software e boas práticas",
   lema:       "código que funciona é o começo; código que se entende é o objetivo"
 };
@@ -41,9 +41,9 @@ const thiago = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,nodejs,react&theme=dark" alt="Linguagens e frameworks" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,php,html,css,nodejs,react&theme=dark" alt="Linguagens e frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=maven,flask,mysql,git,github,vscode,electron,linux,figma&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=maven,postgres,docker,flask,mysql,git,github,vscode,linux,figma&theme=dark" alt="Ferramentas" />
 <br/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="JDBC" />
@@ -73,6 +73,7 @@ const thiago = {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[💰 Finance API](https://github.com/ThiagoFernandes1/finance-api)** | API REST de gestão financeira pessoal: autenticação JWT, orçamentos por categoria e relatórios consolidados. 30 testes, migrations versionadas e CI que valida o schema em PostgreSQL real | `Java 21` `Spring Boot` `PostgreSQL` `Docker` |
 | **[☕ Sistema de Estoque](https://github.com/ThiagoFernandes1/Sistema-Estoque-Java)** | Sistema de controle de estoque em Java com SQL Server: CRUD completo via JDBC, transações, relatórios e script de criação do banco | `Java` `SQL Server` `JDBC` `Maven` |
 | **[🤖 Agente IA](https://github.com/ThiagoFernandes1/Agente-IA)** | Agente multi-agente com RAG e guardrail determinístico contra alucinação de fontes. CI em 6 combinações de SO/Python, 100 testes sem rede, 82% de cobertura | `Python` `CrewAI` `ChromaDB` |
 | **[🛰️ NEXUS](https://github.com/ThiagoFernandes1/NEXUS)** | Painel de dados ao vivo que agrega 5 APIs públicas, com streaming SSE, cache e testes automatizados | `Python` `Flask` `SQLite` |
