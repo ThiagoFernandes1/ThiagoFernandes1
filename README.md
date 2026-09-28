@@ -27,7 +27,7 @@
 ```js
 const thiago = {
   papel:      "Desenvolvedor Full-Stack",
-  foco:       ["Front-End", "Back-End", "APIs", "Automação"],
+  foco:       ["Front-End", "Back-End", "APIs", "Automação", "Ferramentas para devs"],
   stack:      ["Java", "Spring Boot", "JavaScript", "TypeScript", "Python", "PHP", "Node.js"],
   bancos:     ["PostgreSQL", "SQL Server", "Oracle APEX"],
   aprendendo: "arquitetura de software e boas práticas",
@@ -73,6 +73,7 @@ const thiago = {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[🩻 RAIOX](https://github.com/ThiagoFernandes1/RAIOX)** | Raio-X de repositórios git: lê o histórico e aponta hotspots, bus factor, acoplamento oculto e conhecimento órfão, com diagnóstico em português e relatório HTML interativo. Zero dependências, analisa até repositórios públicos pela URL | `Python` `Git` `JavaScript` `SVG` |
 | **[💰 Finance API](https://github.com/ThiagoFernandes1/finance-api)** | API REST de gestão financeira pessoal: autenticação JWT, orçamentos por categoria e relatórios consolidados. 30 testes, migrations versionadas e CI que valida o schema em PostgreSQL real | `Java 21` `Spring Boot` `PostgreSQL` `Docker` |
 | **[☕ Sistema de Estoque](https://github.com/ThiagoFernandes1/Sistema-Estoque-Java)** | Sistema de controle de estoque em Java com SQL Server: CRUD completo via JDBC, transações, relatórios e script de criação do banco | `Java` `SQL Server` `JDBC` `Maven` |
 | **[🤖 Agente IA](https://github.com/ThiagoFernandes1/Agente-IA)** | Agente multi-agente com RAG e guardrail determinístico contra alucinação de fontes. CI em 6 combinações de SO/Python, 100 testes sem rede, 82% de cobertura | `Python` `CrewAI` `ChromaDB` |
