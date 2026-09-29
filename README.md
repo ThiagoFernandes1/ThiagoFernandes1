@@ -27,7 +27,7 @@
 ```js
 const thiago = {
   papel:      "Desenvolvedor Full-Stack",
-  foco:       ["Front-End", "Back-End", "APIs", "Automação", "Ferramentas para devs"],
+  foco:       ["Front-End", "Back-End", "APIs", "Observabilidade", "Automação", "Ferramentas para devs"],
   stack:      ["Java", "Spring Boot", "JavaScript", "TypeScript", "Python", "PHP", "Node.js"],
   bancos:     ["PostgreSQL", "SQL Server", "Oracle APEX"],
   aprendendo: "arquitetura de software e boas práticas",
@@ -73,6 +73,7 @@ const thiago = {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| **[📦 API de Pedidos](https://github.com/ThiagoFernandes1/Api-pedidos)** | API REST de pedidos feita para ser operada em produção: log JSON com correlationId, log de acesso, alerta de consulta lenta e métricas no Actuator. Um perfil "caos" injeta falhas de propósito, e o README mostra a investigação do incidente passo a passo, com logs reais. 48 testes, Testcontainers com PostgreSQL real e CI | `Java 21` `Spring Boot` `PostgreSQL` `Flyway` `Docker` |
 | **[🩻 RAIOX](https://github.com/ThiagoFernandes1/RAIOX)** | Raio-X de repositórios git: lê o histórico e aponta hotspots, bus factor, acoplamento oculto e conhecimento órfão, com diagnóstico em português e relatório HTML interativo. Zero dependências, analisa até repositórios públicos pela URL | `Python` `Git` `JavaScript` `SVG` |
 | **[💰 Finance API](https://github.com/ThiagoFernandes1/finance-api)** | API REST de gestão financeira pessoal: autenticação JWT, orçamentos por categoria e relatórios consolidados. 30 testes, migrations versionadas e CI que valida o schema em PostgreSQL real | `Java 21` `Spring Boot` `PostgreSQL` `Docker` |
 | **[☕ Sistema de Estoque](https://github.com/ThiagoFernandes1/Sistema-Estoque-Java)** | Sistema de controle de estoque em Java com SQL Server: CRUD completo via JDBC, transações, relatórios e script de criação do banco | `Java` `SQL Server` `JDBC` `Maven` |
